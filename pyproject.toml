@@ -2,7 +2,7 @@
 name = "hl_pytest"
 version = "0.1.0"
 description = ""
-authors = ["I G <ignevan@yandex.ru>"]
+authors = ["skip"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
